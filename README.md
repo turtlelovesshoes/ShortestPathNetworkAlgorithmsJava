@@ -1,8 +1,9 @@
 java
 Fall 2013 Santa Clara University 
 ====
-There were 6 assignments for this class I refer to in this repository: 
+The full report for the Simulatio of these algorithims can be seen in the PDF file of this repository. 
 
+There were 6 assignments for this class I refer to in this repository: 
 
 1. A basic Node to implement a list in a later project
 2. A Tree Implementation with those Nodes
